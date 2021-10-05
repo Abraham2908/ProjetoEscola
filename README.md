@@ -1,5 +1,7 @@
 # Projeto Escola
 
+Aplicação Full Stack - Vuejs + .Net Core 5
+
 ## Project setup
 ```
 npm install
