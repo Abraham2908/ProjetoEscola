@@ -59,7 +59,7 @@ Além disto, é bom ter uma IDE ou editor para trabalhar com o código como [Vis
 Visual Studio 2019 -
 
   Clone este repositório
-$ git clone https://github.com/Abraham2908/ProjetoK
+$ git clone https://github.com/Abraham2908/ProjetoEscola
 
 # Abra seu VS 2019, selecione a opção abrir um projeto ou uma solução, vá até o diretorio onde 
 # o projeto foi clonado e selecione o ProjetoK1.sln.
