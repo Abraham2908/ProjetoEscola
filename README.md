@@ -62,7 +62,7 @@ Visual Studio 2019 -
 $ git clone https://github.com/Abraham2908/ProjetoEscola
 
 # Abra seu VS 2019, selecione a opção abrir um projeto ou uma solução, vá até o diretorio onde 
-# o projeto foi clonado e selecione o ProjetoK1.sln.
+# o projeto foi clonado.
 
 Entity Framework Core
 
