@@ -100,11 +100,11 @@ Banco de Dados - SQL Server
 
 Vá até o diretório onde se encontra a aplicação Vuejs e rode os seguinte comando:
 ```
-npm install
+yarn install
 ```
 Em seguida, inicie o servidor.
 ```
-npm run serve
+yarn serve
 ```
 ---
 
